@@ -1,42 +1,42 @@
 {
   "schema": 1,
   "season": 2026,
-  "generatedAt": "2026-11-20T06:11:12.758Z",
+  "generatedAt": "2026-11-23T03:00:05.410Z",
   "teams": [
     {
       "team": "LAR",
       "filename": "LAR.json",
-      "bytes": 6655,
+      "bytes": 6657,
       "warnings": 0
     },
     {
       "team": "SEA",
       "filename": "SEA.json",
-      "bytes": 6250,
+      "bytes": 6252,
       "warnings": 0
     },
     {
       "team": "DEN",
       "filename": "DEN.json",
-      "bytes": 6021,
+      "bytes": 6015,
       "warnings": 0
     },
     {
       "team": "DAL",
       "filename": "DAL.json",
-      "bytes": 6067,
+      "bytes": 6051,
       "warnings": 0
     },
     {
       "team": "LAC",
       "filename": "LAC.json",
-      "bytes": 6253,
+      "bytes": 6251,
       "warnings": 0
     },
     {
       "team": "SF",
       "filename": "SF.json",
-      "bytes": 6053,
+      "bytes": 6055,
       "warnings": 0
     }
   ]
