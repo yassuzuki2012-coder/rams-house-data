@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "season": 2026,
-  "generatedAt": "2026-11-23T05:44:17.353Z",
+  "generatedAt": "2026-11-24T06:00:50.957Z",
   "teams": [
     {
       "team": "LAR",
@@ -12,7 +12,7 @@
     {
       "team": "SEA",
       "filename": "SEA.json",
-      "bytes": 6460,
+      "bytes": 6462,
       "warnings": 2
     },
     {
