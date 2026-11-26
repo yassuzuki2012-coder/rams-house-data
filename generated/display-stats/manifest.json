@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "season": 2026,
-  "generatedAt": "2026-11-24T06:00:50.957Z",
+  "generatedAt": "2026-11-26T06:31:18.369Z",
   "teams": [
     {
       "team": "LAR",
@@ -36,7 +36,7 @@
     {
       "team": "SF",
       "filename": "SF.json",
-      "bytes": 6339,
+      "bytes": 6340,
       "warnings": 2
     }
   ]
