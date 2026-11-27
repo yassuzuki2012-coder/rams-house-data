@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "season": 2026,
-  "generatedAt": "2026-11-26T22:56:19.405Z",
+  "generatedAt": "2026-11-27T06:06:39.617Z",
   "teams": [
     {
       "team": "LAR",
@@ -18,13 +18,13 @@
     {
       "team": "DEN",
       "filename": "DEN.json",
-      "bytes": 6220,
+      "bytes": 6221,
       "warnings": 2
     },
     {
       "team": "DAL",
       "filename": "DAL.json",
-      "bytes": 6251,
+      "bytes": 6269,
       "warnings": 2
     },
     {
